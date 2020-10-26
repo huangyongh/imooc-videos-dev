@@ -1,0 +1,7 @@
+# Project exclude paths
+/com-videos-dev-common/target/
+/imooc-videos-dev-mapper/target/
+/imooc-videos-dev-mini-api/target/
+/imooc-videos-dev-pojo/target/
+/imooc-videos-dev-service/target/
+/mybatis-generatorConfig/target/
